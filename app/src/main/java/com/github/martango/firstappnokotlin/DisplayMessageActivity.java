@@ -1,4 +1,4 @@
-package com.martango.firstappnokotlin;
+package com.github.martango.firstappnokotlin;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

@@ -1,4 +1,4 @@
-package com.martango.firstappnokotlin;
+package com.github.martango.firstappnokotlin;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -8,7 +8,7 @@ import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity {
 
-    public static final String EXTRA_MESSAGE = "com.martango.myfirstapp.MESSAGE";
+    public static final String EXTRA_MESSAGE = "com.github.martango.myfirstapp.MESSAGE";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
